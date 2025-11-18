@@ -1,13 +1,11 @@
 import React from 'react'
 
-const Header = () => {
+const header = () => {
   return (
-    <div>
-      <div className="foryou">
-        <p>FOR YOU</p>
-      </div>
+    <div className='h-screen w-full'>
+      
     </div>
   )
 }
 
-export default Header
+export default header
